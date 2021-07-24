@@ -8,9 +8,9 @@ This repository introduces some typical color space models, such as RGB, HSI, HS
 
 - Original、RGB、Gray:
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20210720155533203.png#pic_center=350x)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210720155533203.png#pic_center=300x)
 
 - HSV、HSL、Lab：
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20210720155744196.png#pic_center=350x)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210720155744196.png#pic_center=300x)
 
