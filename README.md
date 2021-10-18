@@ -11,4 +11,8 @@ This repository is mainly combined with OpenCV4 (C++ version) to implement some 
  - [OpenCV4机器学习（二）：图像的读取、显示与存储](https://blog.csdn.net/wjinjie/category_11218357.html)
  - [OpenCV4机器学习（三）：颜色空间（RGB、HSI、HSV、Lab、Gray）之间的转换](https://ai-wx.blog.csdn.net/article/details/118933508)
  - [OpenCV4机器学习（四）：图像的几何变换、仿射变换](https://ai-wx.blog.csdn.net/article/details/118992887)
-- [OpenCV4机器学习（五）：标注文字和矩形框](https://ai-wx.blog.csdn.net/article/details/120100701)
+ - [OpenCV4机器学习（五）：标注文字和矩形框](https://ai-wx.blog.csdn.net/article/details/120100701)
+ - [OpenCV4机器学习（六）：K-means原理及实现](https://ai-wx.blog.csdn.net/article/details/120145175)
+ - [OpenCV4机器学习（七）：KNN 原理及实现](https://ai-wx.blog.csdn.net/article/details/120675357)
+ - [OpenCV4机器学习（八）：决策树原理及分类实战](https://ai-wx.blog.csdn.net/article/details/120812876)
+
